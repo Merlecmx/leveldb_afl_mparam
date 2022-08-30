@@ -1,0 +1,47 @@
+{
+  "num": 6,
+  "arguments": [
+    {
+      "type": "fixed_8",
+      "value": 6,
+      "context": false,
+      "skip": true,
+      "name": "fuzz_op"
+    },
+    {
+      "type": "unfixed",
+      "value": "key1",
+      "context": false,
+      "skip": true,
+      "name": "key"
+    },
+    {
+      "type": "unfixed",
+      "value": "value1",
+      "context": false,
+      "skip": true,
+      "name": "value"
+    },
+    {
+      "type": "unfixed",
+      "value": "name1",
+      "context": false,
+      "skip": true,
+      "name": "name"
+    },
+    {
+      "type": "unfixed",
+      "value": "key1",
+      "context": false,
+      "skip": true,
+      "name": "begin_key"
+    },
+    {
+      "type": "unfixed",
+      "value": "key2",
+      "context": false,
+      "skip": true,
+      "name": "end_key"
+    }
+  ]
+}
